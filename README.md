@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ THIS CODE IS FOR MY WORDPRESS I USED INTO EXISTING ELEMENTS
 # Animation Project
 
 ## Overview
