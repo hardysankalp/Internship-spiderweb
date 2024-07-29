@@ -1,0 +1,69 @@
+/* Animation 1 */
+.animation-1 {
+    position: relative;
+    animation-name: animation-1;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+  @keyframes animation-1 {
+    0%   {top: 10px;}
+    100% {top: -40px;}
+  }
+  
+  /* Animation 2 */
+  .animation-2 {
+    position: relative;
+    animation-name: animation-2;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+  @keyframes animation-2 {
+    0%   {bottom: -70px;}
+    100% {bottom: -40px;}
+  }
+  
+  /* Animation 3 */
+  .animation-3 {
+    position: relative;
+    animation-name: animation-3;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+  @keyframes animation-3 {
+    0%   {top: 430px;}
+    100% {top: 460px;}
+  }
+  
+  /* Animation 4 */
+  .animation-4 {
+    position: relative;
+    animation-name: animation-4;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+  @keyframes animation-4 {
+    0%   {top: 0px;}
+    100% {top: -30px;}
+  }
+  
+  /* Animation 5 */
+  .animation-5 {
+    position: relative;
+    animation-name: animation-5;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+  @keyframes animation-5 {
+    0%   {top: 160px;}
+    100% {top: 130px;}
+  }
